@@ -1,6 +1,6 @@
 {
   "name": "puzzle-chunks",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Streaming grid components",
   "main": "index.js",
   "author": "https://github.com/Acanguven",
