@@ -17,6 +17,5 @@
   },
   "scripts": {
     "test": "mocha ./**/*.spec.js",
-    "prepublish": "yarn run build"
   }
 }
