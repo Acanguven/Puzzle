@@ -1,5 +1,5 @@
 {
-  "name": "Puzzle",
+  "name": "puzzle-chunks",
   "version": "1.0.0",
   "description": "Streaming grid components",
   "main": "index.js",
