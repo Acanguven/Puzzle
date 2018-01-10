@@ -3,17 +3,17 @@
   "version": "1.0.0",
   "description": "Streaming grid components",
   "main": "index.js",
-  "author": "Acanguven",
+  "author": "https://github.com/Acanguven",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-flow": "^6.23.0",
     "chai": "^4.1.2",
-    "compress": "^0.99.0",
     "compression": "^1.7.1",
-    "express": "^4.16.2",
-    "flow-bin": "^0.63.1"
+    "express": "^4.16.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Acanguven/Puzzle.git"
   },
   "scripts": {
     "test": "mocha ./**/*.spec.js",
