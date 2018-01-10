@@ -1,1 +1,1 @@
-module.exports = require('./dist/puzzle.js');
+module.exports = require('./lib/puzzle.js');
